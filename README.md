@@ -1,4 +1,4 @@
-# dns-expiration-checker
+# domain-expiration-checker
 
 Chrome Extension to check domain expiration based on a vue-chrome-extension-boilerplate.
 
