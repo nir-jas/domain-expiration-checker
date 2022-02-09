@@ -1,0 +1,4699 @@
+[
+  {
+    "tld": "nowruz",
+    "http": "",
+    "https": "https://api.rdap.agitsys.net/domain/"
+  },
+  {
+    "tld": "pars",
+    "http": "",
+    "https": "https://api.rdap.agitsys.net/domain/"
+  },
+  {
+    "tld": "shia",
+    "http": "",
+    "https": "https://api.rdap.agitsys.net/domain/"
+  },
+  { "tld": "tci", "http": "", "https": "https://api.rdap.agitsys.net/domain/" },
+  {
+    "tld": "xn--mgbt3dhd",
+    "http": "",
+    "https": "https://api.rdap.agitsys.net/domain/"
+  },
+  {
+    "tld": "xn--p1acf",
+    "http": "",
+    "https": "https://api.rdap.nic.xn--p1acf/domain/"
+  },
+  {
+    "tld": "moscow",
+    "http": "",
+    "https": "https://flexireg.net/moscow/rdap/domain/"
+  },
+  {
+    "tld": "xn--80adxhks",
+    "http": "",
+    "https": "https://flexireg.net/xn--80adxhks/rdap/domain/"
+  },
+  {
+    "tld": "samsung",
+    "http": "",
+    "https": "https://nic.samsung:8443/rdap/domain/"
+  },
+  {
+    "tld": "xn--cg4bki",
+    "http": "",
+    "https": "https://nic.samsung:8443/rdap/domain/"
+  },
+  {
+    "tld": "xin",
+    "http": "",
+    "https": "https://rdap.aceregistry.net/rdap/xin/domain/"
+  },
+  {
+    "tld": "abarth",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/abarth/domain/"
+  },
+  {
+    "tld": "abbott",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/abbott/domain/"
+  },
+  {
+    "tld": "agakhan",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/agakhan/domain/"
+  },
+  {
+    "tld": "akdn",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/akdn/domain/"
+  },
+  {
+    "tld": "alfaromeo",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/alfaromeo/domain/"
+  },
+  {
+    "tld": "alibaba",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/alibaba/domain/"
+  },
+  {
+    "tld": "alipay",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/alipay/domain/"
+  },
+  {
+    "tld": "allstate",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/allstate/domain/"
+  },
+  {
+    "tld": "ally",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/ally/domain/"
+  },
+  {
+    "tld": "apple",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/apple/domain/"
+  },
+  {
+    "tld": "asia",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/asia/domain/"
+  },
+  {
+    "tld": "audi",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/audi/domain/"
+  },
+  {
+    "tld": "avianca",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/avianca/domain/"
+  },
+  {
+    "tld": "bcg",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/bcg/domain/"
+  },
+  {
+    "tld": "beats",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/beats/domain/"
+  },
+  {
+    "tld": "bestbuy",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/bestbuy/domain/"
+  },
+  {
+    "tld": "blockbuster",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/blockbuster/domain/"
+  },
+  {
+    "tld": "bnpparibas",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/bnpparibas/domain/"
+  },
+  {
+    "tld": "boehringer",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/boehringer/domain/"
+  },
+  {
+    "tld": "bugatti",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/bugatti/domain/"
+  },
+  {
+    "tld": "cbs",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/cbs/domain/"
+  },
+  {
+    "tld": "cern",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/cern/domain/"
+  },
+  {
+    "tld": "cipriani",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/cipriani/domain/"
+  },
+  {
+    "tld": "clinique",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/clinique/domain/"
+  },
+  {
+    "tld": "creditunion",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/creditunion/domain/"
+  },
+  {
+    "tld": "cruise",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/cruise/domain/"
+  },
+  {
+    "tld": "dabur",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/dabur/domain/"
+  },
+  {
+    "tld": "data",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/data/domain/"
+  },
+  {
+    "tld": "delta",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/delta/domain/"
+  },
+  {
+    "tld": "dish",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/dish/domain/"
+  },
+  {
+    "tld": "dot",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/dot/domain/"
+  },
+  {
+    "tld": "dtv",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/dtv/domain/"
+  },
+  {
+    "tld": "dunlop",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/dunlop/domain/"
+  },
+  {
+    "tld": "dvr",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/dvr/domain/"
+  },
+  {
+    "tld": "edeka",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/edeka/domain/"
+  },
+  {
+    "tld": "emerck",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/emerck/domain/"
+  },
+  {
+    "tld": "extraspace",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/extraspace/domain/"
+  },
+  {
+    "tld": "fage",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/fage/domain/"
+  },
+  {
+    "tld": "fedex",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/fedex/domain/"
+  },
+  {
+    "tld": "ferrari",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/ferrari/domain/"
+  },
+  {
+    "tld": "fiat",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/fiat/domain/"
+  },
+  {
+    "tld": "fido",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/fido/domain/"
+  },
+  {
+    "tld": "frogans",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/frogans/domain/"
+  },
+  {
+    "tld": "gallup",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/gallup/domain/"
+  },
+  {
+    "tld": "godaddy",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/godaddy/domain/"
+  },
+  {
+    "tld": "goodyear",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/goodyear/domain/"
+  },
+  {
+    "tld": "hdfc",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/hdfc/domain/"
+  },
+  {
+    "tld": "hdfcbank",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/hdfcbank/domain/"
+  },
+  {
+    "tld": "helsinki",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/helsinki/domain/"
+  },
+  {
+    "tld": "hermes",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/hermes/domain/"
+  },
+  {
+    "tld": "hkt",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/hkt/domain/"
+  },
+  {
+    "tld": "homedepot",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/homedepot/domain/"
+  },
+  {
+    "tld": "hughes",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/hughes/domain/"
+  },
+  {
+    "tld": "icbc",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/icbc/domain/"
+  },
+  {
+    "tld": "imamat",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/imamat/domain/"
+  },
+  {
+    "tld": "ismaili",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/ismaili/domain/"
+  },
+  {
+    "tld": "ist",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/ist/domain/"
+  },
+  {
+    "tld": "istanbul",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/istanbul/domain/"
+  },
+  {
+    "tld": "itv",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/itv/domain/"
+  },
+  {
+    "tld": "jeep",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/jeep/domain/"
+  },
+  {
+    "tld": "jio",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/jio/domain/"
+  },
+  {
+    "tld": "jll",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/jll/domain/"
+  },
+  {
+    "tld": "kosher",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/kosher/domain/"
+  },
+  {
+    "tld": "lamborghini",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/lamborghini/domain/"
+  },
+  {
+    "tld": "lamer",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/lamer/domain/"
+  },
+  {
+    "tld": "lancia",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/lancia/domain/"
+  },
+  {
+    "tld": "lasalle",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/lasalle/domain/"
+  },
+  {
+    "tld": "latino",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/latino/domain/"
+  },
+  {
+    "tld": "lds",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/lds/domain/"
+  },
+  {
+    "tld": "locker",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/locker/domain/"
+  },
+  {
+    "tld": "ltda",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/ltda/domain/"
+  },
+  {
+    "tld": "marriott",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/marriott/domain/"
+  },
+  {
+    "tld": "maserati",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/maserati/domain/"
+  },
+  {
+    "tld": "mckinsey",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/mckinsey/domain/"
+  },
+  {
+    "tld": "mit",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/mit/domain/"
+  },
+  {
+    "tld": "mobile",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/mobile/domain/"
+  },
+  {
+    "tld": "mormon",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/mormon/domain/"
+  },
+  {
+    "tld": "nokia",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/nokia/domain/"
+  },
+  {
+    "tld": "nowtv",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/nowtv/domain/"
+  },
+  {
+    "tld": "nra",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/nra/domain/"
+  },
+  {
+    "tld": "ollo",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/ollo/domain/"
+  },
+  {
+    "tld": "onl",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/onl/domain/"
+  },
+  {
+    "tld": "origins",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/origins/domain/"
+  },
+  {
+    "tld": "ott",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/ott/domain/"
+  },
+  {
+    "tld": "pccw",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/pccw/domain/"
+  },
+  {
+    "tld": "phone",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/phone/domain/"
+  },
+  {
+    "tld": "pnc",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/pnc/domain/"
+  },
+  {
+    "tld": "post",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/post/domain/"
+  },
+  {
+    "tld": "progressive",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/progressive/domain/"
+  },
+  {
+    "tld": "pwc",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/pwc/domain/"
+  },
+  {
+    "tld": "redstone",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/redstone/domain/"
+  },
+  {
+    "tld": "redumbrella",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/redumbrella/domain/"
+  },
+  {
+    "tld": "reliance",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/reliance/domain/"
+  },
+  {
+    "tld": "rich",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/rich/domain/"
+  },
+  {
+    "tld": "richardli",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/richardli/domain/"
+  },
+  {
+    "tld": "ril",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/ril/domain/"
+  },
+  {
+    "tld": "rogers",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/rogers/domain/"
+  },
+  {
+    "tld": "sbi",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/sbi/domain/"
+  },
+  {
+    "tld": "scholarships",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/scholarships/domain/"
+  },
+  {
+    "tld": "sew",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/sew/domain/"
+  },
+  {
+    "tld": "shaw",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/shaw/domain/"
+  },
+  {
+    "tld": "showtime",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/showtime/domain/"
+  },
+  {
+    "tld": "sina",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/sina/domain/"
+  },
+  {
+    "tld": "sling",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/sling/domain/"
+  },
+  {
+    "tld": "srl",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/srl/domain/"
+  },
+  {
+    "tld": "stada",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/stada/domain/"
+  },
+  {
+    "tld": "star",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/star/domain/"
+  },
+  {
+    "tld": "statebank",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/statebank/domain/"
+  },
+  {
+    "tld": "stockholm",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/stockholm/domain/"
+  },
+  {
+    "tld": "temasek",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/temasek/domain/"
+  },
+  {
+    "tld": "thd",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/thd/domain/"
+  },
+  {
+    "tld": "travelers",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/travelers/domain/"
+  },
+  {
+    "tld": "travelersinsurance",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/travelersinsurance/domain/"
+  },
+  {
+    "tld": "trv",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/trv/domain/"
+  },
+  {
+    "tld": "tvs",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/tvs/domain/"
+  },
+  {
+    "tld": "ups",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/ups/domain/"
+  },
+  {
+    "tld": "vegas",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/vegas/domain/"
+  },
+  {
+    "tld": "vig",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/vig/domain/"
+  },
+  {
+    "tld": "viking",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/viking/domain/"
+  },
+  {
+    "tld": "volkswagen",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/volkswagen/domain/"
+  },
+  {
+    "tld": "weibo",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/weibo/domain/"
+  },
+  {
+    "tld": "wolterskluwer",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/wolterskluwer/domain/"
+  },
+  {
+    "tld": "xn--4gbrim",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/xn--4gbrim/domain/"
+  },
+  {
+    "tld": "xn--9krt00a",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/xn--9krt00a/domain/"
+  },
+  {
+    "tld": "xn--b4w605ferd",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/xn--b4w605ferd/domain/"
+  },
+  {
+    "tld": "xn--fzys8d69uvgm",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/xn--fzys8d69uvgm/domain/"
+  },
+  {
+    "tld": "xn--jlq61u9w7b",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/xn--jlq61u9w7b/domain/"
+  },
+  {
+    "tld": "zara",
+    "http": "",
+    "https": "https://rdap.afilias-srs.net/rdap/zara/domain/"
+  },
+  { "tld": "ca", "http": "", "https": "https://rdap.ca.fury.ca/rdap/domain/" },
+  {
+    "tld": "adac",
+    "http": "",
+    "https": "https://rdap.centralnic.com/adac/domain/"
+  },
+  {
+    "tld": "allfinanz",
+    "http": "",
+    "https": "https://rdap.centralnic.com/allfinanz/domain/"
+  },
+  {
+    "tld": "art",
+    "http": "",
+    "https": "https://rdap.centralnic.com/art/domain/"
+  },
+  {
+    "tld": "auto",
+    "http": "",
+    "https": "https://rdap.centralnic.com/auto/domain/"
+  },
+  {
+    "tld": "autos",
+    "http": "",
+    "https": "https://rdap.centralnic.com/autos/domain/"
+  },
+  {
+    "tld": "baby",
+    "http": "",
+    "https": "https://rdap.centralnic.com/baby/domain/"
+  },
+  {
+    "tld": "bar",
+    "http": "",
+    "https": "https://rdap.centralnic.com/bar/domain/"
+  },
+  {
+    "tld": "basketball",
+    "http": "",
+    "https": "https://rdap.centralnic.com/basketball/domain/"
+  },
+  {
+    "tld": "beauty",
+    "http": "",
+    "https": "https://rdap.centralnic.com/beauty/domain/"
+  },
+  {
+    "tld": "best",
+    "http": "",
+    "https": "https://rdap.centralnic.com/best/domain/"
+  },
+  {
+    "tld": "blog",
+    "http": "",
+    "https": "https://rdap.centralnic.com/blog/domain/"
+  },
+  {
+    "tld": "bmw",
+    "http": "",
+    "https": "https://rdap.centralnic.com/bmw/domain/"
+  },
+  {
+    "tld": "boats",
+    "http": "",
+    "https": "https://rdap.centralnic.com/boats/domain/"
+  },
+  {
+    "tld": "bond",
+    "http": "",
+    "https": "https://rdap.centralnic.com/bond/domain/"
+  },
+  {
+    "tld": "box",
+    "http": "",
+    "https": "https://rdap.centralnic.com/box/domain/"
+  },
+  {
+    "tld": "build",
+    "http": "",
+    "https": "https://rdap.centralnic.com/build/domain/"
+  },
+  {
+    "tld": "cam",
+    "http": "",
+    "https": "https://rdap.centralnic.com/cam/domain/"
+  },
+  {
+    "tld": "car",
+    "http": "",
+    "https": "https://rdap.centralnic.com/car/domain/"
+  },
+  {
+    "tld": "cars",
+    "http": "",
+    "https": "https://rdap.centralnic.com/cars/domain/"
+  },
+  {
+    "tld": "case",
+    "http": "",
+    "https": "https://rdap.centralnic.com/case/domain/"
+  },
+  {
+    "tld": "ceo",
+    "http": "",
+    "https": "https://rdap.centralnic.com/ceo/domain/"
+  },
+  {
+    "tld": "cfd",
+    "http": "",
+    "https": "https://rdap.centralnic.com/cfd/domain/"
+  },
+  {
+    "tld": "college",
+    "http": "",
+    "https": "https://rdap.centralnic.com/college/domain/"
+  },
+  {
+    "tld": "coop",
+    "http": "",
+    "https": "https://rdap.centralnic.com/coop/domain/"
+  },
+  {
+    "tld": "cyou",
+    "http": "",
+    "https": "https://rdap.centralnic.com/cyou/domain/"
+  },
+  {
+    "tld": "dealer",
+    "http": "",
+    "https": "https://rdap.centralnic.com/dealer/domain/"
+  },
+  {
+    "tld": "deloitte",
+    "http": "",
+    "https": "https://rdap.centralnic.com/deloitte/domain/"
+  },
+  {
+    "tld": "desi",
+    "http": "",
+    "https": "https://rdap.centralnic.com/desi/domain/"
+  },
+  {
+    "tld": "design",
+    "http": "",
+    "https": "https://rdap.centralnic.com/design/domain/"
+  },
+  {
+    "tld": "dhl",
+    "http": "",
+    "https": "https://rdap.centralnic.com/dhl/domain/"
+  },
+  {
+    "tld": "dvag",
+    "http": "",
+    "https": "https://rdap.centralnic.com/dvag/domain/"
+  },
+  {
+    "tld": "etisalat",
+    "http": "",
+    "https": "https://rdap.centralnic.com/etisalat/domain/"
+  },
+  {
+    "tld": "fans",
+    "http": "",
+    "https": "https://rdap.centralnic.com/fans/domain/"
+  },
+  {
+    "tld": "feedback",
+    "http": "",
+    "https": "https://rdap.centralnic.com/feedback/domain/"
+  },
+  {
+    "tld": "fm",
+    "http": "",
+    "https": "https://rdap.centralnic.com/fm/domain/"
+  },
+  {
+    "tld": "fo",
+    "http": "",
+    "https": "https://rdap.centralnic.com/fo/domain/"
+  },
+  {
+    "tld": "forum",
+    "http": "",
+    "https": "https://rdap.centralnic.com/forum/domain/"
+  },
+  {
+    "tld": "fresenius",
+    "http": "",
+    "https": "https://rdap.centralnic.com/fresenius/domain/"
+  },
+  {
+    "tld": "frl",
+    "http": "",
+    "https": "https://rdap.centralnic.com/frl/domain/"
+  },
+  {
+    "tld": "fun",
+    "http": "",
+    "https": "https://rdap.centralnic.com/fun/domain/"
+  },
+  {
+    "tld": "gay",
+    "http": "",
+    "https": "https://rdap.centralnic.com/gay/domain/"
+  },
+  {
+    "tld": "gd",
+    "http": "",
+    "https": "https://rdap.centralnic.com/gd/domain/"
+  },
+  {
+    "tld": "gent",
+    "http": "",
+    "https": "https://rdap.centralnic.com/gent/domain/"
+  },
+  {
+    "tld": "hair",
+    "http": "",
+    "https": "https://rdap.centralnic.com/hair/domain/"
+  },
+  {
+    "tld": "homes",
+    "http": "",
+    "https": "https://rdap.centralnic.com/homes/domain/"
+  },
+  {
+    "tld": "host",
+    "http": "",
+    "https": "https://rdap.centralnic.com/host/domain/"
+  },
+  {
+    "tld": "icu",
+    "http": "",
+    "https": "https://rdap.centralnic.com/icu/domain/"
+  },
+  {
+    "tld": "inc",
+    "http": "",
+    "https": "https://rdap.centralnic.com/inc/domain/"
+  },
+  {
+    "tld": "ink",
+    "http": "",
+    "https": "https://rdap.centralnic.com/ink/domain/"
+  },
+  {
+    "tld": "kfh",
+    "http": "",
+    "https": "https://rdap.centralnic.com/kfh/domain/"
+  },
+  {
+    "tld": "kpn",
+    "http": "",
+    "https": "https://rdap.centralnic.com/kpn/domain/"
+  },
+  {
+    "tld": "kred",
+    "http": "",
+    "https": "https://rdap.centralnic.com/kred/domain/"
+  },
+  {
+    "tld": "lidl",
+    "http": "",
+    "https": "https://rdap.centralnic.com/lidl/domain/"
+  },
+  {
+    "tld": "london",
+    "http": "",
+    "https": "https://rdap.centralnic.com/london/domain/"
+  },
+  {
+    "tld": "love",
+    "http": "",
+    "https": "https://rdap.centralnic.com/love/domain/"
+  },
+  {
+    "tld": "lpl",
+    "http": "",
+    "https": "https://rdap.centralnic.com/lpl/domain/"
+  },
+  {
+    "tld": "lplfinancial",
+    "http": "",
+    "https": "https://rdap.centralnic.com/lplfinancial/domain/"
+  },
+  {
+    "tld": "luxury",
+    "http": "",
+    "https": "https://rdap.centralnic.com/luxury/domain/"
+  },
+  {
+    "tld": "makeup",
+    "http": "",
+    "https": "https://rdap.centralnic.com/makeup/domain/"
+  },
+  {
+    "tld": "mini",
+    "http": "",
+    "https": "https://rdap.centralnic.com/mini/domain/"
+  },
+  {
+    "tld": "monster",
+    "http": "",
+    "https": "https://rdap.centralnic.com/monster/domain/"
+  },
+  {
+    "tld": "motorcycles",
+    "http": "",
+    "https": "https://rdap.centralnic.com/motorcycles/domain/"
+  },
+  {
+    "tld": "online",
+    "http": "",
+    "https": "https://rdap.centralnic.com/online/domain/"
+  },
+  {
+    "tld": "ooo",
+    "http": "",
+    "https": "https://rdap.centralnic.com/ooo/domain/"
+  },
+  {
+    "tld": "pid",
+    "http": "",
+    "https": "https://rdap.centralnic.com/pid/domain/"
+  },
+  {
+    "tld": "pohl",
+    "http": "",
+    "https": "https://rdap.centralnic.com/pohl/domain/"
+  },
+  {
+    "tld": "press",
+    "http": "",
+    "https": "https://rdap.centralnic.com/press/domain/"
+  },
+  {
+    "tld": "protection",
+    "http": "",
+    "https": "https://rdap.centralnic.com/protection/domain/"
+  },
+  {
+    "tld": "pw",
+    "http": "",
+    "https": "https://rdap.centralnic.com/pw/domain/"
+  },
+  {
+    "tld": "qpon",
+    "http": "",
+    "https": "https://rdap.centralnic.com/qpon/domain/"
+  },
+  {
+    "tld": "quest",
+    "http": "",
+    "https": "https://rdap.centralnic.com/quest/domain/"
+  },
+  {
+    "tld": "reit",
+    "http": "",
+    "https": "https://rdap.centralnic.com/reit/domain/"
+  },
+  {
+    "tld": "rent",
+    "http": "",
+    "https": "https://rdap.centralnic.com/rent/domain/"
+  },
+  {
+    "tld": "rest",
+    "http": "",
+    "https": "https://rdap.centralnic.com/rest/domain/"
+  },
+  {
+    "tld": "rugby",
+    "http": "",
+    "https": "https://rdap.centralnic.com/rugby/domain/"
+  },
+  {
+    "tld": "saarland",
+    "http": "",
+    "https": "https://rdap.centralnic.com/saarland/domain/"
+  },
+  {
+    "tld": "sbs",
+    "http": "",
+    "https": "https://rdap.centralnic.com/sbs/domain/"
+  },
+  {
+    "tld": "schwarz",
+    "http": "",
+    "https": "https://rdap.centralnic.com/schwarz/domain/"
+  },
+  {
+    "tld": "security",
+    "http": "",
+    "https": "https://rdap.centralnic.com/security/domain/"
+  },
+  {
+    "tld": "sfr",
+    "http": "",
+    "https": "https://rdap.centralnic.com/sfr/domain/"
+  },
+  {
+    "tld": "site",
+    "http": "",
+    "https": "https://rdap.centralnic.com/site/domain/"
+  },
+  {
+    "tld": "skin",
+    "http": "",
+    "https": "https://rdap.centralnic.com/skin/domain/"
+  },
+  {
+    "tld": "smart",
+    "http": "",
+    "https": "https://rdap.centralnic.com/smart/domain/"
+  },
+  {
+    "tld": "space",
+    "http": "",
+    "https": "https://rdap.centralnic.com/space/domain/"
+  },
+  {
+    "tld": "stc",
+    "http": "",
+    "https": "https://rdap.centralnic.com/stc/domain/"
+  },
+  {
+    "tld": "stcgroup",
+    "http": "",
+    "https": "https://rdap.centralnic.com/stcgroup/domain/"
+  },
+  {
+    "tld": "storage",
+    "http": "",
+    "https": "https://rdap.centralnic.com/storage/domain/"
+  },
+  {
+    "tld": "store",
+    "http": "",
+    "https": "https://rdap.centralnic.com/store/domain/"
+  },
+  {
+    "tld": "tech",
+    "http": "",
+    "https": "https://rdap.centralnic.com/tech/domain/"
+  },
+  {
+    "tld": "theatre",
+    "http": "",
+    "https": "https://rdap.centralnic.com/theatre/domain/"
+  },
+  {
+    "tld": "tickets",
+    "http": "",
+    "https": "https://rdap.centralnic.com/tickets/domain/"
+  },
+  {
+    "tld": "tui",
+    "http": "",
+    "https": "https://rdap.centralnic.com/tui/domain/"
+  },
+  {
+    "tld": "uno",
+    "http": "",
+    "https": "https://rdap.centralnic.com/uno/domain/"
+  },
+  {
+    "tld": "vg",
+    "http": "",
+    "https": "https://rdap.centralnic.com/vg/domain/"
+  },
+  {
+    "tld": "viva",
+    "http": "",
+    "https": "https://rdap.centralnic.com/viva/domain/"
+  },
+  {
+    "tld": "website",
+    "http": "",
+    "https": "https://rdap.centralnic.com/website/domain/"
+  },
+  {
+    "tld": "wiki",
+    "http": "",
+    "https": "https://rdap.centralnic.com/wiki/domain/"
+  },
+  {
+    "tld": "wme",
+    "http": "",
+    "https": "https://rdap.centralnic.com/wme/domain/"
+  },
+  {
+    "tld": "xn--mgbaakc7dvf",
+    "http": "",
+    "https": "https://rdap.centralnic.com/xn--mgbaakc7dvf/domain/"
+  },
+  {
+    "tld": "xn--ngbe9e0a",
+    "http": "",
+    "https": "https://rdap.centralnic.com/xn--ngbe9e0a/domain/"
+  },
+  {
+    "tld": "xn--vermgensberater-ctb",
+    "http": "",
+    "https": "https://rdap.centralnic.com/xn--vermgensberater-ctb/domain/"
+  },
+  {
+    "tld": "xn--vermgensberatung-pwb",
+    "http": "",
+    "https": "https://rdap.centralnic.com/xn--vermgensberatung-pwb/domain/"
+  },
+  {
+    "tld": "xyz",
+    "http": "",
+    "https": "https://rdap.centralnic.com/xyz/domain/"
+  },
+  {
+    "tld": "yachts",
+    "http": "",
+    "https": "https://rdap.centralnic.com/yachts/domain/"
+  },
+  {
+    "tld": "zuerich",
+    "http": "",
+    "https": "https://rdap.centralnic.com/zuerich/domain/"
+  },
+  {
+    "tld": "xn--55qw42g",
+    "http": "",
+    "https": "https://rdap.conac.cn/domain/"
+  },
+  {
+    "tld": "xn--zfr164b",
+    "http": "",
+    "https": "https://rdap.conac.cn/domain/"
+  },
+  {
+    "tld": "academy",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "accountants",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "actor",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "agency",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "airforce",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "apartments",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "archi",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "army", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "associates",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "attorney",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "auction",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "band", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "bargains",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "bike", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "bingo",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "bio", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "black",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "blue", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "boutique",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "broker",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "builders",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "business",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "cab", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  { "tld": "cafe", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "camera",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "camp", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "capital",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "cards",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "care", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "careers",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "cash", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "casino",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "catering",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "center",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "charity",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "chat", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "cheap",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "church",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "city", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "claims",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "cleaning",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "clinic",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "clothing",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "coach",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "codes",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "coffee",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "community",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "company",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "computer",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "condos",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "construction",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "consulting",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "contact",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "contractors",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "cool", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "coupons",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "credit",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "creditcard",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "cruises",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "dance",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "dating",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "deals",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "degree",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "delivery",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "democrat",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "dental",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "dentist",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "diamonds",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "digital",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "direct",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "directory",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "discount",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "doctor",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "dog", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "domains",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "education",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "email",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "energy",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "engineer",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "engineering",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "enterprises",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "equipment",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "estate",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "events",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "exchange",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "expert",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "exposed",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "express",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "fail", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "family",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "fan", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  { "tld": "farm", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "finance",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "financial",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "fish", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "fitness",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "flights",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "florist",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "football",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "forex",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "forsale",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "foundation",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "fund", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "furniture",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "futbol",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "fyi", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "gallery",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "games",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "gifts",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "gives",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "glass",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "global",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "gmbh", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  { "tld": "gold", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  { "tld": "golf", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "graphics",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "gratis",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "green",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "gripe",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "group",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "guide",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "guru", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  { "tld": "haus", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "healthcare",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "hockey",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "holdings",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "holiday",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "hospital",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "house",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "immo", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "immobilien",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "industries",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "info", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "institute",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "insure",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "international",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "investments",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "irish",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "jetzt",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "jewelry",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "kaufen",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "kim", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "kitchen",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "land", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "lawyer",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "lease",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "legal",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "lgbt", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  { "tld": "life", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "lighting",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "limited",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "limo", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  { "tld": "live", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  { "tld": "llc", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "loans",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "lotto",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "ltd", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "maison",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "management",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "market",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "marketing",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "markets",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "mba", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "media",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "memorial",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "mobi", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  { "tld": "moda", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "money",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "mortgage",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "movie",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "navy", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "network",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "news", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "ninja",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "observer",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "organic",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "partners",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "parts",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "pet", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "photography",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "photos",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "pictures",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "pink", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "pizza",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "place",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "plumbing",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "plus", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "poker",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "pro", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "productions",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "promo",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "properties",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "pub", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "realty",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "recipes",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "red", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "rehab",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "reise",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "reisen",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "rentals",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "repair",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "report",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "republican",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "restaurant",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "reviews",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "rip", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "rocks",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "run", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  { "tld": "sale", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "salon",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "sarl", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "school",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "schule",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "services",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "shiksha",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "shoes",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "shopping",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "show", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "singles",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "ski", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "soccer",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "social",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "software",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "solar",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "solutions",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "studio",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "style",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "supplies",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "supply",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "support",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "surgery",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "systems",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "tax", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  { "tld": "taxi", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  { "tld": "team", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "technology",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "tennis",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "theater",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "tienda",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "tips", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "tires",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "today",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "tools",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "tours",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "town", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  { "tld": "toys", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "trading",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "training",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "travel",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "university",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "vacations",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "ventures",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "vet", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "viajes",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "video",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "villas",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "vin", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "vision",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "vote", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  { "tld": "voto", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "voyage",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "watch",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "watches",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "wine", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "works",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "world",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "wtf", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "xn--5tzm5g",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "xn--6frz82g",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "xn--czrs0t",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "xn--fjq720a",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "xn--unup4y",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  {
+    "tld": "xn--vhquv",
+    "http": "",
+    "https": "https://rdap.donuts.co/rdap/domain/"
+  },
+  { "tld": "zone", "http": "", "https": "https://rdap.donuts.co/rdap/domain/" },
+  {
+    "tld": "eco",
+    "http": "",
+    "https": "https://rdap.eco.fury.ca/rdap/domain/"
+  },
+  {
+    "tld": "bridgestone",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "brother",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "canon",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "datsun",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "dnp",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "epson",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "firestone",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "fujitsu",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "ggee",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "gmo",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "goldpoint",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "goo",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "hisamitsu",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "hitachi",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "honda",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "hyundai",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "infiniti",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "jcb",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "kddi",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "kia",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "komatsu",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "kyoto",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "lexus",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "lotte",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "mitsubishi",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "nagoya",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "nec",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "nhk",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "nico",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "nissan",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "okinawa",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "otsuka",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "panasonic",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "pioneer",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "playstation",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "ricoh",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "ryukyu",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "sharp",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "shop",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "softbank",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "sony",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "suzuki",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "tokyo",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "toray",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "toshiba",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "toyota",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "yodobashi",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "yokohama",
+    "http": "",
+    "https": "https://rdap.gmoregistry.net/rdap/domain/"
+  },
+  { "tld": "bom", "http": "", "https": "https://rdap.gtlds.nic.br/domain/" },
+  { "tld": "final", "http": "", "https": "https://rdap.gtlds.nic.br/domain/" },
+  { "tld": "globo", "http": "", "https": "https://rdap.gtlds.nic.br/domain/" },
+  { "tld": "natura", "http": "", "https": "https://rdap.gtlds.nic.br/domain/" },
+  { "tld": "rio", "http": "", "https": "https://rdap.gtlds.nic.br/domain/" },
+  { "tld": "uol", "http": "", "https": "https://rdap.gtlds.nic.br/domain/" },
+  { "tld": "is", "http": "", "https": "https://rdap.isnic.is/rdap/domain/" },
+  {
+    "tld": "kiwi",
+    "http": "",
+    "https": "https://rdap.kiwi.fury.ca/rdap/domain/"
+  },
+  {
+    "tld": "mls",
+    "http": "",
+    "https": "https://rdap.mls.fury.ca/rdap/domain/"
+  },
+  { "tld": "aaa", "http": "", "https": "https://rdap.nic.aaa/domain/" },
+  { "tld": "able", "http": "", "https": "https://rdap.nic.able/domain/" },
+  { "tld": "abogado", "http": "", "https": "https://rdap.nic.abogado/domain/" },
+  {
+    "tld": "abudhabi",
+    "http": "",
+    "https": "https://rdap.nic.abudhabi/domain/"
+  },
+  {
+    "tld": "accountant",
+    "http": "",
+    "https": "https://rdap.nic.accountant/domain/"
+  },
+  { "tld": "aco", "http": "", "https": "https://rdap.nic.aco/domain/" },
+  { "tld": "adult", "http": "", "https": "https://rdap.nic.adult/domain/" },
+  { "tld": "aetna", "http": "", "https": "https://rdap.nic.aetna/domain/" },
+  { "tld": "afl", "http": "", "https": "https://rdap.nic.afl/domain/" },
+  {
+    "tld": "africa",
+    "http": "",
+    "https": "https://rdap.nic.africa/rdap/domain/"
+  },
+  { "tld": "aig", "http": "", "https": "https://rdap.nic.aig/domain/" },
+  { "tld": "alsace", "http": "", "https": "https://rdap.nic.alsace/domain/" },
+  { "tld": "alstom", "http": "", "https": "https://rdap.nic.alstom/domain/" },
+  {
+    "tld": "americanexpress",
+    "http": "",
+    "https": "https://rdap.nic.americanexpress/domain/"
+  },
+  { "tld": "amex", "http": "", "https": "https://rdap.nic.amex/domain/" },
+  { "tld": "amica", "http": "", "https": "https://rdap.nic.amica/domain/" },
+  {
+    "tld": "amsterdam",
+    "http": "",
+    "https": "https://rdap.nic.amsterdam/domain/"
+  },
+  {
+    "tld": "analytics",
+    "http": "",
+    "https": "https://rdap.nic.analytics/domain/"
+  },
+  { "tld": "anz", "http": "", "https": "https://rdap.nic.anz/domain/" },
+  {
+    "tld": "aquarelle",
+    "http": "",
+    "https": "https://rdap.nic.aquarelle/domain/"
+  },
+  { "tld": "ar", "http": "", "https": "https://rdap.nic.ar/domain/" },
+  { "tld": "arab", "http": "", "https": "https://rdap.nic.arab/domain/" },
+  { "tld": "aramco", "http": "", "https": "https://rdap.nic.aramco/domain/" },
+  { "tld": "athleta", "http": "", "https": "https://rdap.nic.athleta/domain/" },
+  { "tld": "auspost", "http": "", "https": "https://rdap.nic.auspost/domain/" },
+  { "tld": "axa", "http": "", "https": "https://rdap.nic.axa/domain/" },
+  { "tld": "banamex", "http": "", "https": "https://rdap.nic.banamex/domain/" },
+  {
+    "tld": "bananarepublic",
+    "http": "",
+    "https": "https://rdap.nic.bananarepublic/domain/"
+  },
+  { "tld": "bank", "http": "", "https": "https://rdap.nic.bank/domain/" },
+  {
+    "tld": "barcelona",
+    "http": "",
+    "https": "https://rdap.nic.barcelona/domain/"
+  },
+  {
+    "tld": "barclaycard",
+    "http": "",
+    "https": "https://rdap.nic.barclaycard/domain/"
+  },
+  {
+    "tld": "barclays",
+    "http": "",
+    "https": "https://rdap.nic.barclays/domain/"
+  },
+  {
+    "tld": "baseball",
+    "http": "",
+    "https": "https://rdap.nic.baseball/domain/"
+  },
+  { "tld": "bauhaus", "http": "", "https": "https://rdap.nic.bauhaus/domain/" },
+  { "tld": "bcn", "http": "", "https": "https://rdap.nic.bcn/domain/" },
+  {
+    "tld": "berlin",
+    "http": "",
+    "https": "https://rdap.nic.berlin/v1/domain/"
+  },
+  { "tld": "bible", "http": "", "https": "https://rdap.nic.bible/domain/" },
+  { "tld": "bid", "http": "", "https": "https://rdap.nic.bid/domain/" },
+  { "tld": "biz", "http": "", "https": "https://rdap.nic.biz/domain/" },
+  { "tld": "booking", "http": "", "https": "https://rdap.nic.booking/domain/" },
+  { "tld": "bostik", "http": "", "https": "https://rdap.nic.bostik/domain/" },
+  { "tld": "boston", "http": "", "https": "https://rdap.nic.boston/domain/" },
+  {
+    "tld": "brussels",
+    "http": "",
+    "https": "https://rdap.nic.brussels/domain/"
+  },
+  { "tld": "buzz", "http": "", "https": "https://rdap.nic.buzz/domain/" },
+  { "tld": "bzh", "http": "", "https": "https://rdap.nic.bzh/domain/" },
+  {
+    "tld": "calvinklein",
+    "http": "",
+    "https": "https://rdap.nic.calvinklein/domain/"
+  },
+  {
+    "tld": "cancerresearch",
+    "http": "",
+    "https": "https://rdap.nic.cancerresearch/domain/"
+  },
+  {
+    "tld": "capetown",
+    "http": "",
+    "https": "https://rdap.nic.capetown/rdap/domain/"
+  },
+  { "tld": "caravan", "http": "", "https": "https://rdap.nic.caravan/domain/" },
+  { "tld": "casa", "http": "", "https": "https://rdap.nic.casa/domain/" },
+  { "tld": "cat", "http": "", "https": "https://rdap.nic.cat/domain/" },
+  {
+    "tld": "catholic",
+    "http": "",
+    "https": "https://rdap.nic.catholic/domain/"
+  },
+  { "tld": "cba", "http": "", "https": "https://rdap.nic.cba/domain/" },
+  { "tld": "cbn", "http": "", "https": "https://rdap.nic.cbn/domain/" },
+  { "tld": "cbre", "http": "", "https": "https://rdap.nic.cbre/domain/" },
+  { "tld": "chase", "http": "", "https": "https://rdap.nic.chase/domain/" },
+  { "tld": "chintai", "http": "", "https": "https://rdap.nic.chintai/domain/" },
+  { "tld": "cisco", "http": "", "https": "https://rdap.nic.cisco/domain/" },
+  { "tld": "citadel", "http": "", "https": "https://rdap.nic.citadel/domain/" },
+  { "tld": "citi", "http": "", "https": "https://rdap.nic.citi/domain/" },
+  { "tld": "cloud", "http": "", "https": "https://rdap.nic.cloud/domain/" },
+  { "tld": "club", "http": "", "https": "https://rdap.nic.club/domain/" },
+  {
+    "tld": "commbank",
+    "http": "",
+    "https": "https://rdap.nic.commbank/domain/"
+  },
+  { "tld": "compare", "http": "", "https": "https://rdap.nic.compare/domain/" },
+  { "tld": "cooking", "http": "", "https": "https://rdap.nic.cooking/domain/" },
+  { "tld": "corsica", "http": "", "https": "https://rdap.nic.corsica/domain/" },
+  { "tld": "coupon", "http": "", "https": "https://rdap.nic.coupon/domain/" },
+  { "tld": "courses", "http": "", "https": "https://rdap.nic.courses/domain/" },
+  { "tld": "cr", "http": "", "https": "https://rdap.nic.cr/domain/" },
+  { "tld": "cricket", "http": "", "https": "https://rdap.nic.cricket/domain/" },
+  {
+    "tld": "cuisinella",
+    "http": "",
+    "https": "https://rdap.nic.cuisinella/domain/"
+  },
+  { "tld": "cz", "http": "", "https": "https://rdap.nic.cz/domain/" },
+  { "tld": "date", "http": "", "https": "https://rdap.nic.date/domain/" },
+  { "tld": "dell", "http": "", "https": "https://rdap.nic.dell/domain/" },
+  {
+    "tld": "discover",
+    "http": "",
+    "https": "https://rdap.nic.discover/domain/"
+  },
+  {
+    "tld": "download",
+    "http": "",
+    "https": "https://rdap.nic.download/domain/"
+  },
+  { "tld": "dubai", "http": "", "https": "https://rdap.nic.dubai/domain/" },
+  { "tld": "dupont", "http": "", "https": "https://rdap.nic.dupont/domain/" },
+  {
+    "tld": "durban",
+    "http": "",
+    "https": "https://rdap.nic.durban/rdap/domain/"
+  },
+  { "tld": "earth", "http": "", "https": "https://rdap.nic.earth/domain/" },
+  { "tld": "erni", "http": "", "https": "https://rdap.nic.erni/domain/" },
+  {
+    "tld": "eurovision",
+    "http": "",
+    "https": "https://rdap.nic.eurovision/domain/"
+  },
+  { "tld": "eus", "http": "", "https": "https://rdap.nic.eus/domain/" },
+  { "tld": "faith", "http": "", "https": "https://rdap.nic.faith/domain/" },
+  { "tld": "farmers", "http": "", "https": "https://rdap.nic.farmers/domain/" },
+  { "tld": "ferrero", "http": "", "https": "https://rdap.nic.ferrero/domain/" },
+  { "tld": "film", "http": "", "https": "https://rdap.nic.film/domain/" },
+  {
+    "tld": "firmdale",
+    "http": "",
+    "https": "https://rdap.nic.firmdale/domain/"
+  },
+  { "tld": "flickr", "http": "", "https": "https://rdap.nic.flickr/domain/" },
+  { "tld": "flir", "http": "", "https": "https://rdap.nic.flir/domain/" },
+  { "tld": "ford", "http": "", "https": "https://rdap.nic.ford/domain/" },
+  { "tld": "fox", "http": "", "https": "https://rdap.nic.fox/domain/" },
+  {
+    "tld": "frontier",
+    "http": "",
+    "https": "https://rdap.nic.frontier/domain/"
+  },
+  { "tld": "ftr", "http": "", "https": "https://rdap.nic.ftr/domain/" },
+  { "tld": "gal", "http": "", "https": "https://rdap.nic.gal/domain/" },
+  { "tld": "gap", "http": "", "https": "https://rdap.nic.gap/domain/" },
+  { "tld": "gea", "http": "", "https": "https://rdap.nic.gea/domain/" },
+  { "tld": "giving", "http": "", "https": "https://rdap.nic.giving/domain/" },
+  { "tld": "gmx", "http": "", "https": "https://rdap.nic.gmx/domain/" },
+  {
+    "tld": "grainger",
+    "http": "",
+    "https": "https://rdap.nic.grainger/domain/"
+  },
+  {
+    "tld": "hamburg",
+    "http": "",
+    "https": "https://rdap.nic.hamburg/v1/domain/"
+  },
+  { "tld": "hbo", "http": "", "https": "https://rdap.nic.hbo/domain/" },
+  { "tld": "health", "http": "", "https": "https://rdap.nic.health/domain/" },
+  {
+    "tld": "homegoods",
+    "http": "",
+    "https": "https://rdap.nic.homegoods/domain/"
+  },
+  {
+    "tld": "homesense",
+    "http": "",
+    "https": "https://rdap.nic.homesense/domain/"
+  },
+  { "tld": "hoteles", "http": "", "https": "https://rdap.nic.hoteles/domain/" },
+  { "tld": "hotels", "http": "", "https": "https://rdap.nic.hotels/domain/" },
+  { "tld": "hsbc", "http": "", "https": "https://rdap.nic.hsbc/domain/" },
+  { "tld": "hyatt", "http": "", "https": "https://rdap.nic.hyatt/domain/" },
+  { "tld": "ibm", "http": "", "https": "https://rdap.nic.ibm/domain/" },
+  { "tld": "ieee", "http": "", "https": "https://rdap.nic.ieee/domain/" },
+  { "tld": "ifm", "http": "", "https": "https://rdap.nic.ifm/domain/" },
+  { "tld": "ikano", "http": "", "https": "https://rdap.nic.ikano/v1/domain/" },
+  {
+    "tld": "insurance",
+    "http": "",
+    "https": "https://rdap.nic.insurance/domain/"
+  },
+  { "tld": "intuit", "http": "", "https": "https://rdap.nic.intuit/domain/" },
+  {
+    "tld": "ipiranga",
+    "http": "",
+    "https": "https://rdap.nic.ipiranga/domain/"
+  },
+  { "tld": "itau", "http": "", "https": "https://rdap.nic.itau/domain/" },
+  { "tld": "jmp", "http": "", "https": "https://rdap.nic.jmp/domain/" },
+  { "tld": "jnj", "http": "", "https": "https://rdap.nic.jnj/domain/" },
+  {
+    "tld": "joburg",
+    "http": "",
+    "https": "https://rdap.nic.joburg/rdap/domain/"
+  },
+  {
+    "tld": "jpmorgan",
+    "http": "",
+    "https": "https://rdap.nic.jpmorgan/domain/"
+  },
+  { "tld": "jprs", "http": "", "https": "https://rdap.nic.jprs/rdap/domain/" },
+  { "tld": "kinder", "http": "", "https": "https://rdap.nic.kinder/domain/" },
+  { "tld": "kpmg", "http": "", "https": "https://rdap.nic.kpmg/domain/" },
+  { "tld": "krd", "http": "", "https": "https://rdap.nic.krd/domain/" },
+  { "tld": "lacaixa", "http": "", "https": "https://rdap.nic.lacaixa/domain/" },
+  {
+    "tld": "lancaster",
+    "http": "",
+    "https": "https://rdap.nic.lancaster/domain/"
+  },
+  { "tld": "lanxess", "http": "", "https": "https://rdap.nic.lanxess/domain/" },
+  { "tld": "lat", "http": "", "https": "https://rdap.nic.lat/domain/" },
+  { "tld": "latrobe", "http": "", "https": "https://rdap.nic.latrobe/domain/" },
+  { "tld": "leclerc", "http": "", "https": "https://rdap.nic.leclerc/domain/" },
+  {
+    "tld": "lifeinsurance",
+    "http": "",
+    "https": "https://rdap.nic.lifeinsurance/domain/"
+  },
+  { "tld": "lilly", "http": "", "https": "https://rdap.nic.lilly/domain/" },
+  { "tld": "lincoln", "http": "", "https": "https://rdap.nic.lincoln/domain/" },
+  { "tld": "loan", "http": "", "https": "https://rdap.nic.loan/domain/" },
+  { "tld": "loft", "http": "", "https": "https://rdap.nic.loft/domain/" },
+  { "tld": "madrid", "http": "", "https": "https://rdap.nic.madrid/domain/" },
+  { "tld": "man", "http": "", "https": "https://rdap.nic.man/domain/" },
+  { "tld": "mango", "http": "", "https": "https://rdap.nic.mango/domain/" },
+  {
+    "tld": "marshalls",
+    "http": "",
+    "https": "https://rdap.nic.marshalls/domain/"
+  },
+  { "tld": "mattel", "http": "", "https": "https://rdap.nic.mattel/domain/" },
+  {
+    "tld": "melbourne",
+    "http": "",
+    "https": "https://rdap.nic.melbourne/domain/"
+  },
+  { "tld": "men", "http": "", "https": "https://rdap.nic.men/domain/" },
+  { "tld": "menu", "http": "", "https": "https://rdap.nic.menu/domain/" },
+  { "tld": "miami", "http": "", "https": "https://rdap.nic.miami/domain/" },
+  { "tld": "mint", "http": "", "https": "https://rdap.nic.mint/domain/" },
+  { "tld": "mlb", "http": "", "https": "https://rdap.nic.mlb/domain/" },
+  { "tld": "mma", "http": "", "https": "https://rdap.nic.mma/domain/" },
+  { "tld": "moe", "http": "", "https": "https://rdap.nic.moe/domain/" },
+  { "tld": "monash", "http": "", "https": "https://rdap.nic.monash/domain/" },
+  { "tld": "moto", "http": "", "https": "https://rdap.nic.moto/domain/" },
+  { "tld": "museum", "http": "", "https": "https://rdap.nic.museum/domain/" },
+  { "tld": "mutual", "http": "", "https": "https://rdap.nic.mutual/domain/" },
+  { "tld": "nba", "http": "", "https": "https://rdap.nic.nba/domain/" },
+  { "tld": "netbank", "http": "", "https": "https://rdap.nic.netbank/domain/" },
+  { "tld": "netflix", "http": "", "https": "https://rdap.nic.netflix/domain/" },
+  { "tld": "neustar", "http": "", "https": "https://rdap.nic.neustar/domain/" },
+  { "tld": "nfl", "http": "", "https": "https://rdap.nic.nfl/domain/" },
+  { "tld": "nike", "http": "", "https": "https://rdap.nic.nike/domain/" },
+  {
+    "tld": "northwesternmutual",
+    "http": "",
+    "https": "https://rdap.nic.northwesternmutual/domain/"
+  },
+  { "tld": "nrw", "http": "", "https": "https://rdap.nic.nrw/domain/" },
+  { "tld": "ntt", "http": "", "https": "https://rdap.nic.ntt/rdap/domain/" },
+  { "tld": "nyc", "http": "", "https": "https://rdap.nic.nyc/domain/" },
+  { "tld": "office", "http": "", "https": "https://rdap.nic.office/domain/" },
+  { "tld": "olayan", "http": "", "https": "https://rdap.nic.olayan/domain/" },
+  {
+    "tld": "olayangroup",
+    "http": "",
+    "https": "https://rdap.nic.olayangroup/domain/"
+  },
+  { "tld": "oldnavy", "http": "", "https": "https://rdap.nic.oldnavy/domain/" },
+  { "tld": "one", "http": "", "https": "https://rdap.nic.one/domain/" },
+  { "tld": "open", "http": "", "https": "https://rdap.nic.open/domain/" },
+  { "tld": "osaka", "http": "", "https": "https://rdap.nic.osaka/domain/" },
+  { "tld": "ovh", "http": "", "https": "https://rdap.nic.ovh/domain/" },
+  { "tld": "paris", "http": "", "https": "https://rdap.nic.paris/domain/" },
+  { "tld": "party", "http": "", "https": "https://rdap.nic.party/domain/" },
+  {
+    "tld": "passagens",
+    "http": "",
+    "https": "https://rdap.nic.passagens/domain/"
+  },
+  { "tld": "pfizer", "http": "", "https": "https://rdap.nic.pfizer/domain/" },
+  { "tld": "philips", "http": "", "https": "https://rdap.nic.philips/domain/" },
+  { "tld": "physio", "http": "", "https": "https://rdap.nic.physio/domain/" },
+  { "tld": "ping", "http": "", "https": "https://rdap.nic.ping/domain/" },
+  { "tld": "politie", "http": "", "https": "https://rdap.nic.politie/domain/" },
+  { "tld": "porn", "http": "", "https": "https://rdap.nic.porn/domain/" },
+  {
+    "tld": "pramerica",
+    "http": "",
+    "https": "https://rdap.nic.pramerica/domain/"
+  },
+  { "tld": "praxi", "http": "", "https": "https://rdap.nic.praxi/domain/" },
+  { "tld": "pru", "http": "", "https": "https://rdap.nic.pru/domain/" },
+  {
+    "tld": "prudential",
+    "http": "",
+    "https": "https://rdap.nic.prudential/domain/"
+  },
+  { "tld": "quebec", "http": "", "https": "https://rdap.nic.quebec/domain/" },
+  { "tld": "racing", "http": "", "https": "https://rdap.nic.racing/domain/" },
+  { "tld": "radio", "http": "", "https": "https://rdap.nic.radio/domain/" },
+  { "tld": "review", "http": "", "https": "https://rdap.nic.review/domain/" },
+  { "tld": "rocher", "http": "", "https": "https://rdap.nic.rocher/domain/" },
+  { "tld": "ruhr", "http": "", "https": "https://rdap.nic.ruhr/domain/" },
+  { "tld": "safety", "http": "", "https": "https://rdap.nic.safety/domain/" },
+  {
+    "tld": "sakura",
+    "http": "",
+    "https": "https://rdap.nic.sakura/rdap/domain/"
+  },
+  { "tld": "sandvik", "http": "", "https": "https://rdap.nic.sandvik/domain/" },
+  {
+    "tld": "sandvikcoromant",
+    "http": "",
+    "https": "https://rdap.nic.sandvikcoromant/domain/"
+  },
+  { "tld": "sap", "http": "", "https": "https://rdap.nic.sap/domain/" },
+  { "tld": "sas", "http": "", "https": "https://rdap.nic.sas/domain/" },
+  { "tld": "saxo", "http": "", "https": "https://rdap.nic.saxo/domain/" },
+  { "tld": "scb", "http": "", "https": "https://rdap.nic.scb/domain/" },
+  {
+    "tld": "schaeffler",
+    "http": "",
+    "https": "https://rdap.nic.schaeffler/domain/"
+  },
+  { "tld": "schmidt", "http": "", "https": "https://rdap.nic.schmidt/domain/" },
+  { "tld": "science", "http": "", "https": "https://rdap.nic.science/domain/" },
+  { "tld": "scot", "http": "", "https": "https://rdap.nic.scot/domain/" },
+  { "tld": "seat", "http": "", "https": "https://rdap.nic.seat/domain/" },
+  { "tld": "seek", "http": "", "https": "https://rdap.nic.seek/domain/" },
+  { "tld": "select", "http": "", "https": "https://rdap.nic.select/domain/" },
+  { "tld": "seven", "http": "", "https": "https://rdap.nic.seven/domain/" },
+  { "tld": "sex", "http": "", "https": "https://rdap.nic.sex/domain/" },
+  { "tld": "skype", "http": "", "https": "https://rdap.nic.skype/domain/" },
+  { "tld": "sncf", "http": "", "https": "https://rdap.nic.sncf/domain/" },
+  { "tld": "song", "http": "", "https": "https://rdap.nic.song/domain/" },
+  { "tld": "sport", "http": "", "https": "https://rdap.nic.sport/domain/" },
+  { "tld": "staples", "http": "", "https": "https://rdap.nic.staples/domain/" },
+  {
+    "tld": "statefarm",
+    "http": "",
+    "https": "https://rdap.nic.statefarm/domain/"
+  },
+  { "tld": "stream", "http": "", "https": "https://rdap.nic.stream/domain/" },
+  { "tld": "study", "http": "", "https": "https://rdap.nic.study/domain/" },
+  { "tld": "sucks", "http": "", "https": "https://rdap.nic.sucks/domain/" },
+  { "tld": "swiss", "http": "", "https": "https://rdap.nic.swiss/domain/" },
+  { "tld": "sydney", "http": "", "https": "https://rdap.nic.sydney/domain/" },
+  { "tld": "tab", "http": "", "https": "https://rdap.nic.tab/domain/" },
+  { "tld": "taipei", "http": "", "https": "https://rdap.nic.taipei/domain/" },
+  { "tld": "taobao", "http": "", "https": "https://rdap.nic.taobao/domain/" },
+  { "tld": "target", "http": "", "https": "https://rdap.nic.target/domain/" },
+  { "tld": "tdk", "http": "", "https": "https://rdap.nic.tdk/domain/" },
+  { "tld": "tel", "http": "", "https": "https://rdap.nic.tel/domain/" },
+  { "tld": "teva", "http": "", "https": "https://rdap.nic.teva/domain/" },
+  { "tld": "tjmaxx", "http": "", "https": "https://rdap.nic.tjmaxx/domain/" },
+  { "tld": "tjx", "http": "", "https": "https://rdap.nic.tjx/domain/" },
+  { "tld": "tkmaxx", "http": "", "https": "https://rdap.nic.tkmaxx/domain/" },
+  { "tld": "tmall", "http": "", "https": "https://rdap.nic.tmall/domain/" },
+  { "tld": "total", "http": "", "https": "https://rdap.nic.total/domain/" },
+  { "tld": "trade", "http": "", "https": "https://rdap.nic.trade/domain/" },
+  { "tld": "trust", "http": "", "https": "https://rdap.nic.trust/domain/" },
+  { "tld": "tube", "http": "", "https": "https://rdap.nic.tube/domain/" },
+  {
+    "tld": "versicherung",
+    "http": "",
+    "https": "https://rdap.nic.versicherung/v1/domain/"
+  },
+  { "tld": "vivo", "http": "", "https": "https://rdap.nic.vivo/domain/" },
+  {
+    "tld": "vlaanderen",
+    "http": "",
+    "https": "https://rdap.nic.vlaanderen/domain/"
+  },
+  {
+    "tld": "voting",
+    "http": "",
+    "https": "https://rdap.nic.voting/v1/domain/"
+  },
+  { "tld": "vuelos", "http": "", "https": "https://rdap.nic.vuelos/domain/" },
+  { "tld": "walter", "http": "", "https": "https://rdap.nic.walter/domain/" },
+  { "tld": "weather", "http": "", "https": "https://rdap.nic.weather/domain/" },
+  {
+    "tld": "weatherchannel",
+    "http": "",
+    "https": "https://rdap.nic.weatherchannel/domain/"
+  },
+  { "tld": "webcam", "http": "", "https": "https://rdap.nic.webcam/domain/" },
+  { "tld": "whoswho", "http": "", "https": "https://rdap.nic.whoswho/domain/" },
+  {
+    "tld": "williamhill",
+    "http": "",
+    "https": "https://rdap.nic.williamhill/domain/"
+  },
+  { "tld": "win", "http": "", "https": "https://rdap.nic.win/domain/" },
+  { "tld": "winners", "http": "", "https": "https://rdap.nic.winners/domain/" },
+  {
+    "tld": "woodside",
+    "http": "",
+    "https": "https://rdap.nic.woodside/domain/"
+  },
+  { "tld": "wtc", "http": "", "https": "https://rdap.nic.wtc/domain/" },
+  {
+    "tld": "xn--1ck2e1b",
+    "http": "",
+    "https": "https://rdap.nic.xn--1ck2e1b/domain/"
+  },
+  {
+    "tld": "xn--80aqecdr1a",
+    "http": "",
+    "https": "https://rdap.nic.xn--80aqecdr1a/domain/"
+  },
+  {
+    "tld": "xn--80asehdb",
+    "http": "",
+    "https": "https://rdap.nic.xn--80asehdb/domain/"
+  },
+  {
+    "tld": "xn--80aswg",
+    "http": "",
+    "https": "https://rdap.nic.xn--80aswg/domain/"
+  },
+  {
+    "tld": "xn--bck1b9a5dre4c",
+    "http": "",
+    "https": "https://rdap.nic.xn--bck1b9a5dre4c/domain/"
+  },
+  {
+    "tld": "xn--cck2b3b",
+    "http": "",
+    "https": "https://rdap.nic.xn--cck2b3b/domain/"
+  },
+  {
+    "tld": "xn--eckvdtc9d",
+    "http": "",
+    "https": "https://rdap.nic.xn--eckvdtc9d/domain/"
+  },
+  {
+    "tld": "xn--fct429k",
+    "http": "",
+    "https": "https://rdap.nic.xn--fct429k/domain/"
+  },
+  {
+    "tld": "xn--g2xx48c",
+    "http": "",
+    "https": "https://rdap.nic.xn--g2xx48c/domain/"
+  },
+  {
+    "tld": "xn--gckr3f0f",
+    "http": "",
+    "https": "https://rdap.nic.xn--gckr3f0f/domain/"
+  },
+  {
+    "tld": "xn--gk3at1e",
+    "http": "",
+    "https": "https://rdap.nic.xn--gk3at1e/domain/"
+  },
+  {
+    "tld": "xn--jvr189m",
+    "http": "",
+    "https": "https://rdap.nic.xn--jvr189m/domain/"
+  },
+  {
+    "tld": "xn--kcrx77d1x4a",
+    "http": "",
+    "https": "https://rdap.nic.xn--kcrx77d1x4a/domain/"
+  },
+  {
+    "tld": "xn--mgba3a3ejt",
+    "http": "",
+    "https": "https://rdap.nic.xn--mgba3a3ejt/domain/"
+  },
+  {
+    "tld": "xn--mgba7c0bbn0a",
+    "http": "",
+    "https": "https://rdap.nic.xn--mgba7c0bbn0a/domain/"
+  },
+  {
+    "tld": "xn--mgbab2bd",
+    "http": "",
+    "https": "https://rdap.nic.xn--mgbab2bd/domain/"
+  },
+  {
+    "tld": "xn--mgbca7dzdo",
+    "http": "",
+    "https": "https://rdap.nic.xn--mgbca7dzdo/domain/"
+  },
+  {
+    "tld": "xn--mgbi4ecexp",
+    "http": "",
+    "https": "https://rdap.nic.xn--mgbi4ecexp/domain/"
+  },
+  {
+    "tld": "xn--ngbc5azd",
+    "http": "",
+    "https": "https://rdap.nic.xn--ngbc5azd/domain/"
+  },
+  {
+    "tld": "xn--ngbrx",
+    "http": "",
+    "https": "https://rdap.nic.xn--ngbrx/domain/"
+  },
+  {
+    "tld": "xn--rovu88b",
+    "http": "",
+    "https": "https://rdap.nic.xn--rovu88b/domain/"
+  },
+  {
+    "tld": "xn--tiq49xqyj",
+    "http": "",
+    "https": "https://rdap.nic.xn--tiq49xqyj/domain/"
+  },
+  { "tld": "xxx", "http": "", "https": "https://rdap.nic.xxx/domain/" },
+  { "tld": "yandex", "http": "", "https": "https://rdap.nic.yandex/domain/" },
+  { "tld": "zero", "http": "", "https": "https://rdap.nic.zero/domain/" },
+  {
+    "tld": "abbvie",
+    "http": "",
+    "https": "https://rdap.nominet.uk/abbvie/domain/"
+  },
+  {
+    "tld": "amazon",
+    "http": "",
+    "https": "https://rdap.nominet.uk/amazon/domain/"
+  },
+  {
+    "tld": "audible",
+    "http": "",
+    "https": "https://rdap.nominet.uk/audible/domain/"
+  },
+  {
+    "tld": "author",
+    "http": "",
+    "https": "https://rdap.nominet.uk/author/domain/"
+  },
+  { "tld": "aws", "http": "", "https": "https://rdap.nominet.uk/aws/domain/" },
+  {
+    "tld": "bayern",
+    "http": "",
+    "https": "https://rdap.nominet.uk/bayern/domain/"
+  },
+  { "tld": "bbc", "http": "", "https": "https://rdap.nominet.uk/bbc/domain/" },
+  {
+    "tld": "bbva",
+    "http": "",
+    "https": "https://rdap.nominet.uk/bbva/domain/"
+  },
+  {
+    "tld": "beer",
+    "http": "",
+    "https": "https://rdap.nominet.uk/beer/domain/"
+  },
+  {
+    "tld": "bentley",
+    "http": "",
+    "https": "https://rdap.nominet.uk/bentley/domain/"
+  },
+  {
+    "tld": "book",
+    "http": "",
+    "https": "https://rdap.nominet.uk/book/domain/"
+  },
+  { "tld": "bot", "http": "", "https": "https://rdap.nominet.uk/bot/domain/" },
+  {
+    "tld": "bradesco",
+    "http": "",
+    "https": "https://rdap.nominet.uk/bradesco/domain/"
+  },
+  {
+    "tld": "broadway",
+    "http": "",
+    "https": "https://rdap.nominet.uk/broadway/domain/"
+  },
+  {
+    "tld": "budapest",
+    "http": "",
+    "https": "https://rdap.nominet.uk/budapest/domain/"
+  },
+  { "tld": "buy", "http": "", "https": "https://rdap.nominet.uk/buy/domain/" },
+  {
+    "tld": "call",
+    "http": "",
+    "https": "https://rdap.nominet.uk/call/domain/"
+  },
+  {
+    "tld": "career",
+    "http": "",
+    "https": "https://rdap.nominet.uk/career/domain/"
+  },
+  {
+    "tld": "circle",
+    "http": "",
+    "https": "https://rdap.nominet.uk/circle/domain/"
+  },
+  {
+    "tld": "comcast",
+    "http": "",
+    "https": "https://rdap.nominet.uk/comcast/domain/"
+  },
+  {
+    "tld": "cymru",
+    "http": "",
+    "https": "https://rdap.nominet.uk/cymru/domain/"
+  },
+  { "tld": "dds", "http": "", "https": "https://rdap.nominet.uk/dds/domain/" },
+  {
+    "tld": "deal",
+    "http": "",
+    "https": "https://rdap.nominet.uk/deal/domain/"
+  },
+  {
+    "tld": "fashion",
+    "http": "",
+    "https": "https://rdap.nominet.uk/fashion/domain/"
+  },
+  {
+    "tld": "fast",
+    "http": "",
+    "https": "https://rdap.nominet.uk/fast/domain/"
+  },
+  {
+    "tld": "fire",
+    "http": "",
+    "https": "https://rdap.nominet.uk/fire/domain/"
+  },
+  {
+    "tld": "fishing",
+    "http": "",
+    "https": "https://rdap.nominet.uk/fishing/domain/"
+  },
+  { "tld": "fit", "http": "", "https": "https://rdap.nominet.uk/fit/domain/" },
+  {
+    "tld": "free",
+    "http": "",
+    "https": "https://rdap.nominet.uk/free/domain/"
+  },
+  {
+    "tld": "garden",
+    "http": "",
+    "https": "https://rdap.nominet.uk/garden/domain/"
+  },
+  { "tld": "gop", "http": "", "https": "https://rdap.nominet.uk/gop/domain/" },
+  { "tld": "got", "http": "", "https": "https://rdap.nominet.uk/got/domain/" },
+  {
+    "tld": "gucci",
+    "http": "",
+    "https": "https://rdap.nominet.uk/gucci/domain/"
+  },
+  {
+    "tld": "horse",
+    "http": "",
+    "https": "https://rdap.nominet.uk/horse/domain/"
+  },
+  { "tld": "hot", "http": "", "https": "https://rdap.nominet.uk/hot/domain/" },
+  {
+    "tld": "imdb",
+    "http": "",
+    "https": "https://rdap.nominet.uk/imdb/domain/"
+  },
+  {
+    "tld": "jobs",
+    "http": "",
+    "https": "https://rdap.nominet.uk/jobs/domain/"
+  },
+  { "tld": "jot", "http": "", "https": "https://rdap.nominet.uk/jot/domain/" },
+  { "tld": "joy", "http": "", "https": "https://rdap.nominet.uk/joy/domain/" },
+  {
+    "tld": "kindle",
+    "http": "",
+    "https": "https://rdap.nominet.uk/kindle/domain/"
+  },
+  { "tld": "law", "http": "", "https": "https://rdap.nominet.uk/law/domain/" },
+  {
+    "tld": "like",
+    "http": "",
+    "https": "https://rdap.nominet.uk/like/domain/"
+  },
+  {
+    "tld": "locus",
+    "http": "",
+    "https": "https://rdap.nominet.uk/locus/domain/"
+  },
+  {
+    "tld": "luxe",
+    "http": "",
+    "https": "https://rdap.nominet.uk/luxe/domain/"
+  },
+  { "tld": "med", "http": "", "https": "https://rdap.nominet.uk/med/domain/" },
+  { "tld": "moi", "http": "", "https": "https://rdap.nominet.uk/moi/domain/" },
+  { "tld": "mtn", "http": "", "https": "https://rdap.nominet.uk/mtn/domain/" },
+  { "tld": "now", "http": "", "https": "https://rdap.nominet.uk/now/domain/" },
+  { "tld": "pay", "http": "", "https": "https://rdap.nominet.uk/pay/domain/" },
+  {
+    "tld": "pharmacy",
+    "http": "",
+    "https": "https://rdap.nominet.uk/pharmacy/domain/"
+  },
+  { "tld": "pin", "http": "", "https": "https://rdap.nominet.uk/pin/domain/" },
+  {
+    "tld": "prime",
+    "http": "",
+    "https": "https://rdap.nominet.uk/prime/domain/"
+  },
+  {
+    "tld": "read",
+    "http": "",
+    "https": "https://rdap.nominet.uk/read/domain/"
+  },
+  {
+    "tld": "realestate",
+    "http": "",
+    "https": "https://rdap.nominet.uk/realestate/domain/"
+  },
+  {
+    "tld": "realtor",
+    "http": "",
+    "https": "https://rdap.nominet.uk/realtor/domain/"
+  },
+  {
+    "tld": "rodeo",
+    "http": "",
+    "https": "https://rdap.nominet.uk/rodeo/domain/"
+  },
+  {
+    "tld": "room",
+    "http": "",
+    "https": "https://rdap.nominet.uk/room/domain/"
+  },
+  {
+    "tld": "safe",
+    "http": "",
+    "https": "https://rdap.nominet.uk/safe/domain/"
+  },
+  {
+    "tld": "save",
+    "http": "",
+    "https": "https://rdap.nominet.uk/save/domain/"
+  },
+  {
+    "tld": "secure",
+    "http": "",
+    "https": "https://rdap.nominet.uk/secure/domain/"
+  },
+  {
+    "tld": "silk",
+    "http": "",
+    "https": "https://rdap.nominet.uk/silk/domain/"
+  },
+  {
+    "tld": "smile",
+    "http": "",
+    "https": "https://rdap.nominet.uk/smile/domain/"
+  },
+  {
+    "tld": "spot",
+    "http": "",
+    "https": "https://rdap.nominet.uk/spot/domain/"
+  },
+  {
+    "tld": "surf",
+    "http": "",
+    "https": "https://rdap.nominet.uk/surf/domain/"
+  },
+  {
+    "tld": "talk",
+    "http": "",
+    "https": "https://rdap.nominet.uk/talk/domain/"
+  },
+  {
+    "tld": "tunes",
+    "http": "",
+    "https": "https://rdap.nominet.uk/tunes/domain/"
+  },
+  {
+    "tld": "tushu",
+    "http": "",
+    "https": "https://rdap.nominet.uk/tushu/domain/"
+  },
+  { "tld": "vip", "http": "", "https": "https://rdap.nominet.uk/vip/domain/" },
+  {
+    "tld": "virgin",
+    "http": "",
+    "https": "https://rdap.nominet.uk/virgin/domain/"
+  },
+  {
+    "tld": "vodka",
+    "http": "",
+    "https": "https://rdap.nominet.uk/vodka/domain/"
+  },
+  {
+    "tld": "wales",
+    "http": "",
+    "https": "https://rdap.nominet.uk/wales/domain/"
+  },
+  {
+    "tld": "wanggou",
+    "http": "",
+    "https": "https://rdap.nominet.uk/wanggou/domain/"
+  },
+  { "tld": "wed", "http": "", "https": "https://rdap.nominet.uk/wed/domain/" },
+  {
+    "tld": "wedding",
+    "http": "",
+    "https": "https://rdap.nominet.uk/wedding/domain/"
+  },
+  {
+    "tld": "work",
+    "http": "",
+    "https": "https://rdap.nominet.uk/work/domain/"
+  },
+  { "tld": "wow", "http": "", "https": "https://rdap.nominet.uk/wow/domain/" },
+  {
+    "tld": "xfinity",
+    "http": "",
+    "https": "https://rdap.nominet.uk/xfinity/domain/"
+  },
+  {
+    "tld": "xn--cckwcxetd",
+    "http": "",
+    "https": "https://rdap.nominet.uk/xn--cckwcxetd/domain/"
+  },
+  {
+    "tld": "xn--jlq480n2rg",
+    "http": "",
+    "https": "https://rdap.nominet.uk/xn--jlq480n2rg/domain/"
+  },
+  {
+    "tld": "yamaxun",
+    "http": "",
+    "https": "https://rdap.nominet.uk/yamaxun/domain/"
+  },
+  {
+    "tld": "yoga",
+    "http": "",
+    "https": "https://rdap.nominet.uk/yoga/domain/"
+  },
+  { "tld": "you", "http": "", "https": "https://rdap.nominet.uk/you/domain/" },
+  {
+    "tld": "zappos",
+    "http": "",
+    "https": "https://rdap.nominet.uk/zappos/domain/"
+  },
+  { "tld": "no", "http": "", "https": "https://rdap.norid.no/domain/" },
+  { "tld": "id", "http": "", "https": "https://rdap.pandi.id/rdap/domain/" },
+  {
+    "tld": "ngo",
+    "http": "",
+    "https": "https://rdap.publicinterestregistry.net/rdap/ngo/domain/"
+  },
+  {
+    "tld": "ong",
+    "http": "",
+    "https": "https://rdap.publicinterestregistry.net/rdap/ong/domain/"
+  },
+  {
+    "tld": "org",
+    "http": "",
+    "https": "https://rdap.publicinterestregistry.net/rdap/org/domain/"
+  },
+  {
+    "tld": "xn--c1avg",
+    "http": "",
+    "https": "https://rdap.publicinterestregistry.net/rdap/xn--c1avg/domain/"
+  },
+  {
+    "tld": "xn--i1b6b1a6a2e",
+    "http": "",
+    "https": "https://rdap.publicinterestregistry.net/rdap/xn--i1b6b1a6a2e/domain/"
+  },
+  {
+    "tld": "xn--nqv7f",
+    "http": "",
+    "https": "https://rdap.publicinterestregistry.net/rdap/xn--nqv7f/domain/"
+  },
+  {
+    "tld": "xn--nqv7fs00ema",
+    "http": "",
+    "https": "https://rdap.publicinterestregistry.net/rdap/xn--nqv7fs00ema/domain/"
+  },
+  { "tld": "br", "http": "", "https": "https://rdap.registro.br/domain/" },
+  {
+    "tld": "xn--kput3i",
+    "http": "",
+    "https": "https://rdap.registrysystem.net/rdap/xn--kput3i/domain/"
+  },
+  {
+    "tld": "cologne",
+    "http": "",
+    "https": "https://rdap.ryce-rsp.com/rdap/domain/"
+  },
+  {
+    "tld": "koeln",
+    "http": "",
+    "https": "https://rdap.ryce-rsp.com/rdap/domain/"
+  },
+  {
+    "tld": "tirol",
+    "http": "",
+    "https": "https://rdap.ryce-rsp.com/rdap/domain/"
+  },
+  {
+    "tld": "wien",
+    "http": "",
+    "https": "https://rdap.ryce-rsp.com/rdap/domain/"
+  },
+  { "tld": "anquan", "http": "", "https": "https://rdap.teleinfo.cn/domain/" },
+  { "tld": "shouji", "http": "", "https": "https://rdap.teleinfo.cn/domain/" },
+  { "tld": "xihuan", "http": "", "https": "https://rdap.teleinfo.cn/domain/" },
+  {
+    "tld": "xn--vuq861b",
+    "http": "",
+    "https": "https://rdap.teleinfo.cn/domain/"
+  },
+  { "tld": "yun", "http": "", "https": "https://rdap.teleinfo.cn/domain/" },
+  {
+    "tld": "xn--3ds443g",
+    "http": "",
+    "https": "https://rdap.teleinfo.cn/xn--3ds443g/domain/"
+  },
+  {
+    "tld": "xn--fiq228c5hs",
+    "http": "",
+    "https": "https://rdap.teleinfo.cn/xn--fiq228c5hs/domain/"
+  },
+  {
+    "tld": "xn--nyqy26a",
+    "http": "",
+    "https": "https://rdap.teleinfo.cn/xn--nyqy26a/domain/"
+  },
+  {
+    "tld": "xn--rhqv96g",
+    "http": "",
+    "https": "https://rdap.teleinfo.cn/xn--rhqv96g/domain/"
+  },
+  {
+    "tld": "xn--mxtq1m",
+    "http": "",
+    "https": "https://rdap.twnic.tw/rdap/domain/"
+  },
+  {
+    "tld": "com",
+    "http": "",
+    "https": "https://rdap.verisign.com/com/v1/domain/"
+  },
+  {
+    "tld": "net",
+    "http": "",
+    "https": "https://rdap.verisign.com/net/v1/domain/"
+  },
+  {
+    "tld": "xn--45q11c",
+    "http": "",
+    "https": "https://rdap.zdnsgtld.com/XN--45Q11C/domain/"
+  },
+  {
+    "tld": "xn--efvy88h",
+    "http": "",
+    "https": "https://rdap.zdnsgtld.com/XN--EFVY88H/domain/"
+  },
+  {
+    "tld": "baidu",
+    "http": "",
+    "https": "https://rdap.zdnsgtld.com/baidu/domain/"
+  },
+  {
+    "tld": "citic",
+    "http": "",
+    "https": "https://rdap.zdnsgtld.com/citic/domain/"
+  },
+  {
+    "tld": "ren",
+    "http": "",
+    "https": "https://rdap.zdnsgtld.com/ren/domain/"
+  },
+  {
+    "tld": "sohu",
+    "http": "",
+    "https": "https://rdap.zdnsgtld.com/sohu/domain/"
+  },
+  {
+    "tld": "top",
+    "http": "",
+    "https": "https://rdap.zdnsgtld.com/top/domain/"
+  },
+  {
+    "tld": "unicom",
+    "http": "",
+    "https": "https://rdap.zdnsgtld.com/unicom/domain/"
+  },
+  {
+    "tld": "wang",
+    "http": "",
+    "https": "https://rdap.zdnsgtld.com/wang/domain/"
+  },
+  {
+    "tld": "xn--30rr7y",
+    "http": "",
+    "https": "https://rdap.zdnsgtld.com/xn--30rr7y/domain/"
+  },
+  {
+    "tld": "xn--3bst00m",
+    "http": "",
+    "https": "https://rdap.zdnsgtld.com/xn--3bst00m/domain/"
+  },
+  {
+    "tld": "xn--6qq986b3xl",
+    "http": "",
+    "https": "https://rdap.zdnsgtld.com/xn--6qq986b3xl/domain/"
+  },
+  {
+    "tld": "xn--8y0a063a",
+    "http": "",
+    "https": "https://rdap.zdnsgtld.com/xn--8y0a063a/domain/"
+  },
+  {
+    "tld": "xn--9et52u",
+    "http": "",
+    "https": "https://rdap.zdnsgtld.com/xn--9et52u/domain/"
+  },
+  {
+    "tld": "xn--czr694b",
+    "http": "",
+    "https": "https://rdap.zdnsgtld.com/xn--czr694b/domain/"
+  },
+  {
+    "tld": "xn--czru2d",
+    "http": "",
+    "https": "https://rdap.zdnsgtld.com/xn--czru2d/domain/"
+  },
+  {
+    "tld": "xn--fiq64b",
+    "http": "",
+    "https": "https://rdap.zdnsgtld.com/xn--fiq64b/domain/"
+  },
+  {
+    "tld": "xn--hxt814e",
+    "http": "",
+    "https": "https://rdap.zdnsgtld.com/xn--hxt814e/domain/"
+  },
+  {
+    "tld": "xn--imr513n",
+    "http": "",
+    "https": "https://rdap.zdnsgtld.com/xn--imr513n/domain/"
+  },
+  {
+    "tld": "xn--otu796d",
+    "http": "",
+    "https": "https://rdap.zdnsgtld.com/xn--otu796d/domain/"
+  },
+  {
+    "tld": "xn--ses554g",
+    "http": "",
+    "https": "https://rdap.zdnsgtld.com/xn--ses554g/domain/"
+  },
+  {
+    "tld": "xn--55qx5d",
+    "http": "",
+    "https": "https://restwhois.ngtld.cn/domain/"
+  },
+  {
+    "tld": "xn--io0a7i",
+    "http": "",
+    "https": "https://restwhois.ngtld.cn/domain/"
+  },
+  {
+    "tld": "aarp",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/aarp/v1/domain/"
+  },
+  {
+    "tld": "abb",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/abb/v1/domain/"
+  },
+  {
+    "tld": "abc",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/abc/v1/domain/"
+  },
+  {
+    "tld": "accenture",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/accenture/v1/domain/"
+  },
+  {
+    "tld": "aeg",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/aeg/v1/domain/"
+  },
+  {
+    "tld": "airbus",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/airbus/v1/domain/"
+  },
+  {
+    "tld": "airtel",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/airtel/v1/domain/"
+  },
+  {
+    "tld": "americanfamily",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/americanfamily/v1/domain/"
+  },
+  {
+    "tld": "amfam",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/amfam/v1/domain/"
+  },
+  {
+    "tld": "aol",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/aol/v1/domain/"
+  },
+  {
+    "tld": "arte",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/arte/v1/domain/"
+  },
+  {
+    "tld": "asda",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/asda/v1/domain/"
+  },
+  {
+    "tld": "azure",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/azure/v1/domain/"
+  },
+  {
+    "tld": "barefoot",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/barefoot/v1/domain/"
+  },
+  {
+    "tld": "bbt",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/bbt/v1/domain/"
+  },
+  {
+    "tld": "bharti",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/bharti/v1/domain/"
+  },
+  {
+    "tld": "bing",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/bing/v1/domain/"
+  },
+  {
+    "tld": "bloomberg",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/bloomberg/v1/domain/"
+  },
+  {
+    "tld": "bms",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/bms/v1/domain/"
+  },
+  {
+    "tld": "bofa",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/bofa/v1/domain/"
+  },
+  {
+    "tld": "bosch",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/bosch/v1/domain/"
+  },
+  {
+    "tld": "capitalone",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/capitalone/v1/domain/"
+  },
+  {
+    "tld": "cc",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/cc/v1/domain/"
+  },
+  {
+    "tld": "cfa",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/cfa/v1/domain/"
+  },
+  {
+    "tld": "chanel",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/chanel/v1/domain/"
+  },
+  {
+    "tld": "cityeats",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/cityeats/v1/domain/"
+  },
+  {
+    "tld": "clubmed",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/clubmed/v1/domain/"
+  },
+  {
+    "tld": "comsec",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/comsec/v1/domain/"
+  },
+  {
+    "tld": "cookingchannel",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/cookingchannel/v1/domain/"
+  },
+  {
+    "tld": "crown",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/crown/v1/domain/"
+  },
+  {
+    "tld": "crs",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/crs/v1/domain/"
+  },
+  {
+    "tld": "diy",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/diy/v1/domain/"
+  },
+  {
+    "tld": "ericsson",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/ericsson/v1/domain/"
+  },
+  {
+    "tld": "fairwinds",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/fairwinds/v1/domain/"
+  },
+  {
+    "tld": "fidelity",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/fidelity/v1/domain/"
+  },
+  {
+    "tld": "food",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/food/v1/domain/"
+  },
+  {
+    "tld": "foodnetwork",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/foodnetwork/v1/domain/"
+  },
+  {
+    "tld": "frontdoor",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/frontdoor/v1/domain/"
+  },
+  {
+    "tld": "gallo",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/gallo/v1/domain/"
+  },
+  {
+    "tld": "genting",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/genting/v1/domain/"
+  },
+  {
+    "tld": "george",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/george/v1/domain/"
+  },
+  {
+    "tld": "grocery",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/grocery/v1/domain/"
+  },
+  {
+    "tld": "guardian",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/guardian/v1/domain/"
+  },
+  {
+    "tld": "hgtv",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/hgtv/v1/domain/"
+  },
+  {
+    "tld": "hotmail",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/hotmail/v1/domain/"
+  },
+  {
+    "tld": "ice",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/ice/v1/domain/"
+  },
+  {
+    "tld": "jaguar",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/jaguar/v1/domain/"
+  },
+  {
+    "tld": "java",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/java/v1/domain/"
+  },
+  {
+    "tld": "juniper",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/juniper/v1/domain/"
+  },
+  {
+    "tld": "kerryhotels",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/kerryhotels/v1/domain/"
+  },
+  {
+    "tld": "kerrylogistics",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/kerrylogistics/v1/domain/"
+  },
+  {
+    "tld": "kerryproperties",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/kerryproperties/v1/domain/"
+  },
+  {
+    "tld": "kuokgroup",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/kuokgroup/v1/domain/"
+  },
+  {
+    "tld": "landrover",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/landrover/v1/domain/"
+  },
+  {
+    "tld": "lefrak",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/lefrak/v1/domain/"
+  },
+  {
+    "tld": "lego",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/lego/v1/domain/"
+  },
+  {
+    "tld": "lifestyle",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/lifestyle/v1/domain/"
+  },
+  {
+    "tld": "linde",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/linde/v1/domain/"
+  },
+  {
+    "tld": "lipsy",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/lipsy/v1/domain/"
+  },
+  {
+    "tld": "living",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/living/v1/domain/"
+  },
+  {
+    "tld": "lundbeck",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/lundbeck/v1/domain/"
+  },
+  {
+    "tld": "macys",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/macys/v1/domain/"
+  },
+  {
+    "tld": "maif",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/maif/v1/domain/"
+  },
+  {
+    "tld": "merckmsd",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/merckmsd/v1/domain/"
+  },
+  {
+    "tld": "microsoft",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/microsoft/v1/domain/"
+  },
+  {
+    "tld": "msd",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/msd/v1/domain/"
+  },
+  {
+    "tld": "nab",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/nab/v1/domain/"
+  },
+  {
+    "tld": "name",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/name/v1/domain/"
+  },
+  {
+    "tld": "next",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/next/v1/domain/"
+  },
+  {
+    "tld": "nextdirect",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/nextdirect/v1/domain/"
+  },
+  {
+    "tld": "nikon",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/nikon/v1/domain/"
+  },
+  {
+    "tld": "nissay",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/nissay/v1/domain/"
+  },
+  {
+    "tld": "norton",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/norton/v1/domain/"
+  },
+  {
+    "tld": "obi",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/obi/v1/domain/"
+  },
+  {
+    "tld": "omega",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/omega/v1/domain/"
+  },
+  {
+    "tld": "oracle",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/oracle/v1/domain/"
+  },
+  {
+    "tld": "orange",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/orange/v1/domain/"
+  },
+  {
+    "tld": "pictet",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/pictet/v1/domain/"
+  },
+  {
+    "tld": "rexroth",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/rexroth/v1/domain/"
+  },
+  {
+    "tld": "rwe",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/rwe/v1/domain/"
+  },
+  {
+    "tld": "samsclub",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/samsclub/v1/domain/"
+  },
+  {
+    "tld": "sanofi",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/sanofi/v1/domain/"
+  },
+  {
+    "tld": "sca",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/sca/v1/domain/"
+  },
+  {
+    "tld": "sener",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/sener/v1/domain/"
+  },
+  {
+    "tld": "ses",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/ses/v1/domain/"
+  },
+  {
+    "tld": "shangrila",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/shangrila/v1/domain/"
+  },
+  {
+    "tld": "shell",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/shell/v1/domain/"
+  },
+  {
+    "tld": "sky",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/sky/v1/domain/"
+  },
+  {
+    "tld": "swatch",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/swatch/v1/domain/"
+  },
+  {
+    "tld": "tatamotors",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/tatamotors/v1/domain/"
+  },
+  {
+    "tld": "tiaa",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/tiaa/v1/domain/"
+  },
+  {
+    "tld": "tiffany",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/tiffany/v1/domain/"
+  },
+  {
+    "tld": "travelchannel",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/travelchannel/v1/domain/"
+  },
+  {
+    "tld": "tv",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/tv/v1/domain/"
+  },
+  {
+    "tld": "ubank",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/ubank/v1/domain/"
+  },
+  {
+    "tld": "ubs",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/ubs/v1/domain/"
+  },
+  {
+    "tld": "vana",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/vana/v1/domain/"
+  },
+  {
+    "tld": "vanguard",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/vanguard/v1/domain/"
+  },
+  {
+    "tld": "verisign",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/verisign/v1/domain/"
+  },
+  {
+    "tld": "visa",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/visa/v1/domain/"
+  },
+  {
+    "tld": "volvo",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/volvo/v1/domain/"
+  },
+  {
+    "tld": "walmart",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/walmart/v1/domain/"
+  },
+  {
+    "tld": "weber",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/weber/v1/domain/"
+  },
+  {
+    "tld": "weir",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/weir/v1/domain/"
+  },
+  {
+    "tld": "windows",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/windows/v1/domain/"
+  },
+  {
+    "tld": "xbox",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/xbox/v1/domain/"
+  },
+  {
+    "tld": "xerox",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/xerox/v1/domain/"
+  },
+  {
+    "tld": "xn--11b4c3d",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/xn--11b4c3d/v1/domain/"
+  },
+  {
+    "tld": "xn--3pxu8k",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/xn--3pxu8k/v1/domain/"
+  },
+  {
+    "tld": "xn--42c2d9a",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/xn--42c2d9a/v1/domain/"
+  },
+  {
+    "tld": "xn--5su34j936bgsg",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/xn--5su34j936bgsg/v1/domain/"
+  },
+  {
+    "tld": "xn--9dbq2a",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/xn--9dbq2a/v1/domain/"
+  },
+  {
+    "tld": "xn--c2br7g",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/xn--c2br7g/v1/domain/"
+  },
+  {
+    "tld": "xn--fhbei",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/xn--fhbei/v1/domain/"
+  },
+  {
+    "tld": "xn--j1aef",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/xn--j1aef/v1/domain/"
+  },
+  {
+    "tld": "xn--mk1bu44c",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/xn--mk1bu44c/v1/domain/"
+  },
+  {
+    "tld": "xn--pssy2u",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/xn--pssy2u/v1/domain/"
+  },
+  {
+    "tld": "xn--t60b56a",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/xn--t60b56a/v1/domain/"
+  },
+  {
+    "tld": "xn--tckwe",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/xn--tckwe/v1/domain/"
+  },
+  {
+    "tld": "xn--w4r85el8fhu5dnra",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/xn--w4r85el8fhu5dnra/v1/domain/"
+  },
+  {
+    "tld": "xn--w4rs40l",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/xn--w4rs40l/v1/domain/"
+  },
+  {
+    "tld": "yahoo",
+    "http": "",
+    "https": "https://tld-rdap.verisign.com/yahoo/v1/domain/"
+  },
+  {
+    "tld": "ky",
+    "http": "",
+    "https": "https://whois.kyregistry.ky/rdap/domain/"
+  },
+  { "tld": "mtr", "http": "", "https": "https://whois.nic.mtr/rdap/domain/" },
+  {
+    "tld": "tatar",
+    "http": "",
+    "https": "https://whois.nic.tatar/rdap/domain/"
+  },
+  {
+    "tld": "xn--d1acj3b",
+    "http": "",
+    "https": "https://whois.nic.xn--d1acj3b/rdap/domain/"
+  },
+  {
+    "tld": "tz",
+    "http": "",
+    "https": "https://whois.tznic.or.tz/rdap/domain/"
+  },
+  {
+    "tld": "audio",
+    "http": "",
+    "https": "https://whois.uniregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "blackfriday",
+    "http": "",
+    "https": "https://whois.uniregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "christmas",
+    "http": "",
+    "https": "https://whois.uniregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "click",
+    "http": "",
+    "https": "https://whois.uniregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "country",
+    "http": "",
+    "https": "https://whois.uniregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "diet",
+    "http": "",
+    "https": "https://whois.uniregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "flowers",
+    "http": "",
+    "https": "https://whois.uniregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "game",
+    "http": "",
+    "https": "https://whois.uniregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "gift",
+    "http": "",
+    "https": "https://whois.uniregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "guitars",
+    "http": "",
+    "https": "https://whois.uniregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "help",
+    "http": "",
+    "https": "https://whois.uniregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "hiphop",
+    "http": "",
+    "https": "https://whois.uniregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "hiv",
+    "http": "",
+    "https": "https://whois.uniregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "hosting",
+    "http": "",
+    "https": "https://whois.uniregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "juegos",
+    "http": "",
+    "https": "https://whois.uniregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "link",
+    "http": "",
+    "https": "https://whois.uniregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "lol",
+    "http": "",
+    "https": "https://whois.uniregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "mom",
+    "http": "",
+    "https": "https://whois.uniregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "photo",
+    "http": "",
+    "https": "https://whois.uniregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "pics",
+    "http": "",
+    "https": "https://whois.uniregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "property",
+    "http": "",
+    "https": "https://whois.uniregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "sexy",
+    "http": "",
+    "https": "https://whois.uniregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "tattoo",
+    "http": "",
+    "https": "https://whois.uniregistry.net/rdap/domain/"
+  },
+  {
+    "tld": "ads",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "android",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "app",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "boo",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "cal",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "channel",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "chrome",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "dad",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "day",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "dclk",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "dev",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "docs",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "drive",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "eat",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "esq",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "fly",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "foo",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "gbiz",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "gle",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "gmail",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "goog",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "google",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "guge",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "hangout",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "here",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "how",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "ing",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "map",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "meet",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "meme",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "mov",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "new",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "nexus",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "page",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "phd",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "play",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "prod",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "prof",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "rsvp",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "search",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "soy",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "xn--flw351e",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "xn--q9jyb4c",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "xn--qcka1pmc",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "youtube",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  },
+  {
+    "tld": "zip",
+    "http": "",
+    "https": "https://www.registry.google/rdap/domain/"
+  }
+]
